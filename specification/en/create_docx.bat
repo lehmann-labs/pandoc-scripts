@@ -1,0 +1,1 @@
+pandoc --latex-engine xelatex --template ..\common\pdf-template.tex --listings technical_specification.md -o technical_specification.docx
