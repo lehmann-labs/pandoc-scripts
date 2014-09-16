@@ -8,12 +8,19 @@ bibliography: project.bib
 
 
 # 1 - General Description
+## 1.1 Requirement description
+e.g., 
+* the source of the requirement document
+* explanation why this requirement is necessary
+* list of the stakeholders affected by the requirement
+* desired priority
+* involved people to create requirement document
 
-## 1.1 - Business Process
+## 1.2 - Business Process
 
-## 1.2 - Functional Architecture
+## 1.3 - Functional Architecture
 
-## 1.3 - Technical Architecture
+## 1.4 - Technical Architecture
 Used pattern
 
 # 2 - Interface Description
